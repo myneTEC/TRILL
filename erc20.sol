@@ -8,9 +8,7 @@
 |_| |_|/ /  |_|\_||___\ |_| |___|\____\
       /_/
 
- GmbH & AG in Germany Registernummer: HRB20132612 (Hähnlehofstraße 47 88250 Weingarten BW)
- Ltd. in UK and commonwealth (via Stormgain mining & staking functionality contract
- LLC and inc. in USA         https://app.stormgain.com/friend/BNS75368233)
+ Stormgain mining & staking functionality contract        https://app.stormgain.com/friend/BNS75368233)
  ---ID-HEADER_END
  ------------------------------------------------------------------------------------------------------------------------------------
  *   
